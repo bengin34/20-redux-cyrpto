@@ -9,7 +9,7 @@ const Cryptocurrencies = ({ simplified }) => {
   const { data: cryptosList, isFetching } = useGetCryptosQuery(count);
   const [cryptos, setCryptos] = useState([]);
   const [searchTerm, setSearchTerm] = useState('')
-  console.log(cryptos);
+
 
   useEffect(() => {
     const filteredData = cryptosList?.data?.coins.filter((coin) => coin.name.toLowerCase().includes(searchTerm));
@@ -33,7 +33,7 @@ const Cryptocurrencies = ({ simplified }) => {
             xs={24}
             sm={12}
             lg={6}
-            style={{ margin: "auto" }}
+            
             className="crypto-card"
             key={currency.uuid}
           >
