@@ -15,11 +15,11 @@ App enables to user to see ten of the most popular Cryptocurrencies and related 
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="50"/> </a>  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="redux" width="50"/> </a>   <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/190887795-99cb0921-e57f-430b-a111-e165deedaa36.png" alt="antDesign" height="50"/> </a> 
 
 ## API Reference
-https://rapidapi.com/Coinranking/api/coinranking1
+https://rapidapi.com/Coinranking/api/coinranking1 <br>
 https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1
 
 ## How to use?
-Click a coin that you want to see its details.
+Click a coin that you want to see its details.<br>
 Click show more if you want to see all coins or news.
 
 ## Code style
