@@ -6,6 +6,9 @@
 I am trying to understand how the Redux works.
 <br>
 App enables to user to see ten of the most popular Cryptocurrencies and related news.
+
+<p> Some features dont work such as graphs detail beacuse of the free API </p>
+
 ## Screenshots
 ![red-crypto](https://user-images.githubusercontent.com/118957608/226898386-37035a49-04d1-4df0-8cc0-9f0c0055de70.gif)
 
